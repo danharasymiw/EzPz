@@ -1,0 +1,8 @@
+## Interface: 11400
+## Title: EzPz
+## Author: Coyotes
+## Version: 1.0
+## SavedVariables: EzPzDB
+
+EzPz.lua
+EzPz.xml
